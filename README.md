@@ -373,7 +373,7 @@ Before you begin, make sure you have the following prerequisites:
 
 
 ![Final-app](https://github.com/Rojha-git/tomcat-app/blob/main/images/tomcat-application.png)
-
+![Home_Page](https://github.com/Rojha-git/tomcat-app/blob/main/images/MicrosoftTeams-image%20(9).png)
 **run "kubectl get svc" and browse dns followed by port :8080 and by :8080/webapp/ , you will be able to see our finle application that we have deployed**.
 
 ![Reg-App](
